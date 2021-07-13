@@ -49,7 +49,7 @@ taiga:
   ### - Must be formatted exactly as you would type the hostname part of the URL in a browser, including the port number if needed.
   ### - Must be reachable by ALL clients using the service. See F.A.Q. in the readme, for more informations.
   ###
-  apiserver: localhost:8080
+  apiserver: 20.194.37.227:30080
 
   ### Whether taiga is behind a TLS termination; if using a TLS ingress, set this to true.
   ###
